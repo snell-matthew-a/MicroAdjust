@@ -43,3 +43,9 @@ The basic design could be adjusted to work for most t-style fences:
 Besides that, the cutout for the t-slot bolt could be adjusted to work with a carriage bolt or a hex head, and the spacing for the thumb wheel could be adjusted to work with other options.
 
 It would be fairly straightforward to make something similar out of wood.  Mag-mate suggests a 30mm forstner bit for making the hole for the magswitch.
+
+## Change History
+
+|Version|Changes|
+|---|---|
+|v2|Added a grub screw to the magswitch holder and adjusted the holder down by 3mm|

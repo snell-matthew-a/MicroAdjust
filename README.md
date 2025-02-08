@@ -6,11 +6,9 @@ This is a mostly 3d printed micro-adjust jig made to fit the fence for a Harvey 
 
 It's meant to work similarly to the [T-Fence MicroMag Adjuster](https://canyonfiretools.com/shop/ols/products/t-fence-micromag-adjuster-3fadef) made by Canyon Fire Tools, which looks great but costs $110 plus another $30 for the magswitch.  All in, this version cost under $5 for the jig, and under $35 in total.
 
+Project includes the printable stl files, as well as the source Fusion 360 file where I modeled the parts for the jig.  
+
 ## Materials
-
-I printed the parts at 100% infill out of PLA, using ~60g of filament in total.
-
-Other components used:
 
 | Quantity | Item | Cost[^1] |
 |----------|-------------|-------------|
@@ -18,6 +16,10 @@ Other components used:
 |1|1/4"-20 Female Thumb Wheel| [$2.49](https://www.amazon.com/dp/B06XYDT8TY)|
 |1|2 1/2" 1/4"-20 T-Track Bolt| [$0.60](https://www.amazon.com/dp/B0765R88Z7)|
 |60g| PLA - Matte Dark Blue (11602)| [$0.78](https://us.store.bambulab.com/products/pla-matte?variant=41884207972488)|
+
+I printed the parts at 100% infill out of PLA, using ~60g of filament in total.  The printed components are slightly different to what's shown in the pictures due to cosmetic changes I made when going back and cleaning up my messy workflow.
+
+![ ](https://github.com/snell-matthew-a/MicroAdjust/blob/main/images/img003.png)
 
 [^1]: PLA was purchased in bulk on sale.  I'm only including the 1 thumb wheel and bolt used in the cost here because the rest will be used in other projects eventually, probably
 
@@ -28,10 +30,6 @@ The two parts for the jig were printed in PLA at 100% infill.  I reamed the hole
 The main body fits over the fence's right adjustment screw and is held down by the fence's thumb wheel.  Then, just set the thumb wheel for the jig in place, slot the t-track bolt in, and screw it together.  The t-track bolt is then held in place by the body of the magswitch.
 
 ![ ](https://github.com/snell-matthew-a/MicroAdjust/blob/main/images/img002.jpg)
-
-## Potential changes
-
-There's a little bit of play in the jig, but it doesn't impact the functionality at all.  The holder for the magswitch is a little looser than I'd like, so I may add a grub screw - either modeling it in and reprinting that piece, or drilling and tapping a hole, since the piece was printed at 100% infill.
 
 ## Adapting to other table saws
 
